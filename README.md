@@ -1,6 +1,5 @@
 # MoodMusics
-MoodMusics is a music player which play songs based on your mood.<br />
-Check it out now: https://moodmusics.up.railway.app/  
+MoodMusics is a music player which play songs based on your mood.<br />  
 
 ## General dependencies
 django==4.0.1 <br />
